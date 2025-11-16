@@ -25,7 +25,7 @@ Test the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : Sathish R
+### DEVELOPED BY : Rishab P Doshi
 ### REG NO :212224240134
 
 ## C Program to print process ID and parent Process ID using Linux API system calls :
